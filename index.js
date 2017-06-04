@@ -1,4 +1,4 @@
-const Server = require('./lib/QonsultServer');
+const Server = require('./src/QonsultServer');
 
 let server = new Server();
 
