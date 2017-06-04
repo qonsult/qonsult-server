@@ -1,0 +1,11 @@
+{
+  "name": "qonsult-server",
+  "version": "1.0.0",
+  "description": "qonsult server",
+  "main": "lib/QonsultServer.js",
+  "author": "Jelle Kralt <jelle@jellekralt.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dnode": "^1.2.2"
+  }
+}
